@@ -1,0 +1,141 @@
+body
+{
+    background-color:rgb(82, 82, 82);
+}
+h1
+{
+    font-size: 40px;
+}
+.button {
+    background-color: #ff0000; /* Green */
+    border: none;
+    color:rgb(65, 65, 65);
+    padding: 28px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 38px;
+    transition-duration: 0.4s;
+    display: flex;
+    width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+  }
+.header-main
+{
+    display: flex;
+    background-color: red;
+   position: fixed;
+}
+.header-main-logo
+{
+    width:fit-content;
+    height:100px;
+    background-color: red; 
+    display:flex;
+}
+.header-main-logo img
+{
+    height:50px;
+}
+.header-2
+{
+    width:150px;
+    height:100px;
+    background-color: red; 
+}
+.header-1
+{
+    width:150px;
+    height:100px;
+    background-color: red; 
+}
+.header-nav
+{
+    Width:120px;
+    Height:100%;
+    background-color: red;
+    display: flex;
+}
+
+  
+  .button:hover {
+    background-color: #b61d1d;
+    color:red;
+  }
+  .product
+  {
+    border-style: solid;
+    width: 400px;
+    height: 530px;
+    border-color:rgba(123, 123, 123, 0.792);
+    padding: 10px 10px;
+}
+.spacer
+{
+    color:  rgb(82, 82, 82)
+}
+.product-descript
+{
+    height: 120px;
+    border: solid;
+    border-color: rgb(123, 123, 123);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.background
+{
+background-color: rgb(82, 82, 82);
+}
+.p
+{
+  list-style-type:none;
+  
+}
+h2 
+{
+   font-weight: bold; 
+   font-size:large;
+}
+.buy
+ {
+    background-color: #ff0000; /* Green */
+    border: none;
+    color:rgb(65, 65, 65);
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    width:fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 2px;
+    display: inline-block;
+    margin-left: 160px;
+ }
+ .buy:hover {
+    background-color: #b61d1d;
+    color:red;
+  }
+  .inline
+  {
+    display: inline-block;
+  }
+  .logo2
+  {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+  .home
+  {
+    text-align: center;
+  }
+  .home2
+  {
+    text-align: center;
+  }
